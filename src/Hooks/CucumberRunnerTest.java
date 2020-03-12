@@ -1,4 +1,4 @@
-package com.esther.talkingtestealelo.cucumber;
+package Hooks;
 
 public class CucumberRunner {
     @RunWith(Cucumber.class)
