@@ -1,4 +1,4 @@
-package com.esther.talkingtestealelo.cucumber.beans;
+package Hooks;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
